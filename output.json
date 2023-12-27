@@ -1,0 +1,401 @@
+[
+  {
+    "type": "album",
+    "name": "Dreams We Will Never Tell Anyone Of",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "I Wish You Could",
+      "url": "https://iwishyoucould.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/26960080_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://iwishyoucould.bandcamp.com/album/dreams-we-will-never-tell-anyone-of",
+    "imageUrl": "https://f4.bcbits.com/img/a91913788_9.jpg",
+    "featuredTrack": {
+      "name": "It Feels Like I'm There With You",
+      "duration": 277.833,
+      "streamUrl": "https://t4.bcbits.com/stream/5c23e2d1a84612f6c4b4b440eb5712c5/mp3-128/3052810234?p=0&ts=1703745349&t=a594092d8d248a37126b93e9336a0943c31e6edc&token=1703745349_499be9e3800323c4974b1c71e33964ac4a98340d"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Salem",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Naott",
+      "url": "https://naott.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/16873849_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://naott.bandcamp.com/album/salem",
+    "imageUrl": "https://f4.bcbits.com/img/a2699053941_9.jpg",
+    "featuredTrack": {
+      "name": "Dis Cool",
+      "duration": 228.792,
+      "streamUrl": "https://t4.bcbits.com/stream/bde5ddacc31ac895de406879ca30e2a7/mp3-128/4182528962?p=0&ts=1703745349&t=f30e64b9e2f67abb74485d5cc446d91ec3b40380&token=1703745349_e1971660fe31c85a78bb4ba883481bcce0712ef5"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Illusory Correlation",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Denounce",
+      "url": "https://denounce.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/null_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://denounce.bandcamp.com/album/illusory-correlation",
+    "imageUrl": "https://f4.bcbits.com/img/a2526798551_9.jpg",
+    "featuredTrack": {
+      "name": "Manifold",
+      "duration": 421.313,
+      "streamUrl": "https://t4.bcbits.com/stream/0be1d087fca73090fe21fce3476adf13/mp3-128/1238820053?p=0&ts=1703745349&t=4690a6ccf2046b9a589a3b4c5b0e5b7a8b93ace9&token=1703745349_3e3b290b3766f9341ec12a3524c3940dbd6f2ecd"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Slow Rotation Suggesting Permanence",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Regalia Water",
+      "url": "https://regaliawater.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/29061282_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://regaliawater.bandcamp.com/album/slow-rotation-suggesting-permanence",
+    "imageUrl": "https://f4.bcbits.com/img/a4104602589_9.jpg",
+    "featuredTrack": {
+      "name": "White light upon a figured leaf",
+      "duration": 331,
+      "streamUrl": "https://t4.bcbits.com/stream/abbf84a8cd2c0dff42b3a361da77be9d/mp3-128/2447813931?p=0&ts=1703745349&t=02e8943c033b66f2ce874325b1c2da7d794816eb&token=1703745349_81a5c8be7d9d7ca32b2553c1df3d3e5c792bad72"
+    }
+  },
+  {
+    "type": "album",
+    "name": "\"Shards of the Moon\"  |  FULL ALBUM",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Castle Andromedae",
+      "url": "https://castleandromedae.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/34480499_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://castleandromedae.bandcamp.com/album/shards-of-the-moon-full-album",
+    "imageUrl": "https://f4.bcbits.com/img/a99184011_9.jpg",
+    "featuredTrack": {
+      "name": "Domin Cera",
+      "duration": 447.097,
+      "streamUrl": "https://t4.bcbits.com/stream/d0ee14893832211558401aaed1f6f67d/mp3-128/921769209?p=0&ts=1703745349&t=c20c35333158f1d9b508196d96705c78ca8688a7&token=1703745349_bbf1ad8a1a187b2e12b9efb323c76549710c8f7f"
+    }
+  },
+  {
+    "type": "album",
+    "name": "What It Was Like To Be An Insect",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Benthic Nash",
+      "url": "https://benthicnash.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/27244822_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://benthicnash.bandcamp.com/album/what-it-was-like-to-be-an-insect",
+    "imageUrl": "https://f4.bcbits.com/img/a2141741868_9.jpg",
+    "featuredTrack": {
+      "name": "Part 4",
+      "duration": 552.954,
+      "streamUrl": "https://t4.bcbits.com/stream/341a8f76cbb9a3a1ef3045162299abd6/mp3-128/27817970?p=0&ts=1703745349&t=88dccb62db584c4b11fa212d42058cfabeb3e18e&token=1703745349_49ec251441cb9607610ad53fede987865e2e2e7a"
+    }
+  },
+  {
+    "type": "album",
+    "name": "For Those Who Thought.",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "KEEPERS",
+      "url": "https://keepers1.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/6905723_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://keepers1.bandcamp.com/album/for-those-who-thought",
+    "imageUrl": "https://f4.bcbits.com/img/a732083170_9.jpg",
+    "featuredTrack": {
+      "name": "Temporary Living (no vocals)",
+      "duration": 159.057,
+      "streamUrl": "https://t4.bcbits.com/stream/cd2180e9384e2763e06b55e422b29430/mp3-128/1056550547?p=0&ts=1703745349&t=af6e8c302b907f1e008d2fbf8f8f07d346b7d303&token=1703745349_7942fd878fe9a4626adf5b7a7eb31ce678381fb2"
+    }
+  },
+  {
+    "type": "album",
+    "name": "forest sounds and where they led me",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "dreading",
+      "url": "https://dreading.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/26959639_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://dreading.bandcamp.com/album/forest-sounds-and-where-they-led-me",
+    "imageUrl": "https://f4.bcbits.com/img/a293050164_9.jpg",
+    "featuredTrack": {
+      "name": "the sky ( and the winds that make me tremble )",
+      "duration": 264.49,
+      "streamUrl": "https://t4.bcbits.com/stream/9e1a2cc67cba3feb869732f4ea488ed9/mp3-128/2205419486?p=0&ts=1703745349&t=ac291d353a19be71d5b6fd357f348719186c910e&token=1703745349_06aaba69314f3ae7350e4a56c172bc040f7f9b6f"
+    }
+  },
+  {
+    "type": "album",
+    "name": "hymns & dedications: part 1",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Holm.",
+      "url": "https://holmmmm.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/4877382_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://holmmmm.bandcamp.com/album/hymns-dedications-part-1",
+    "imageUrl": "https://f4.bcbits.com/img/a2313445098_9.jpg",
+    "featuredTrack": {
+      "name": "hymn 8 - for my friend, before the world had changed him.",
+      "duration": 91.1201,
+      "streamUrl": "https://t4.bcbits.com/stream/c76b6cea75f299d686ae2bbcb888fed0/mp3-128/4152478543?p=0&ts=1703745349&t=5f7b0cea3484b228061f0c4644613105984380bd&token=1703745349_d4f9a4f2b1c1c5ccdcb22199421a0c88a1d076e7"
+    }
+  },
+  {
+    "type": "album",
+    "name": "existential crises in piano and voice",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "odovi",
+      "url": "https://odovi.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/14636590_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://odovi.bandcamp.com/album/existential-crises-in-piano-and-voice",
+    "imageUrl": "https://f4.bcbits.com/img/a1613922602_9.jpg",
+    "featuredTrack": {
+      "name": "smoke",
+      "duration": 195.267,
+      "streamUrl": "https://t4.bcbits.com/stream/0fc32d0555e1c2f9ed34253b27876156/mp3-128/1342987616?p=0&ts=1703745349&t=60d043f70236b32d51784bf2b5f2bd3aa8daa478&token=1703745349_6f1f4128842754f20f0789ff507bc221f3c563c1"
+    }
+  },
+  {
+    "type": "album",
+    "name": "air // jitter",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Gloam",
+      "url": "https://gloamsound.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/32857313_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://gloamsound.bandcamp.com/album/air-jitter",
+    "imageUrl": "https://f4.bcbits.com/img/a4235444252_9.jpg",
+    "featuredTrack": {
+      "name": "air + jitter",
+      "duration": 226.998,
+      "streamUrl": "https://t4.bcbits.com/stream/6060899eb4918a47328b1d6a350b177c/mp3-128/3739699495?p=0&ts=1703745349&t=db4c9f0ed6bb229e95e5609213880d01d6636176&token=1703745349_8243f0a1ec95900b34dc00b3b9f14b5b09b50bda"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Feeder",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Koperta",
+      "url": "https://koperta.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/34254314_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://koperta.bandcamp.com/album/feeder",
+    "imageUrl": "https://f4.bcbits.com/img/a881813336_9.jpg",
+    "featuredTrack": {
+      "name": "Smeh",
+      "duration": 84.3755,
+      "streamUrl": "https://t4.bcbits.com/stream/9188006a1e05077f21fb9bf5f476db2b/mp3-128/3493531710?p=0&ts=1703745349&t=e71a2ee58d3a31cc15f3ad20f128904e025184ee&token=1703745349_f7e9065ab799888821216a6dd925d45540b7d657"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Pre-Production",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Sunchaser",
+      "url": "https://sunchasermusic.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/null_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://sunchasermusic.bandcamp.com/album/pre-production",
+    "imageUrl": "https://f4.bcbits.com/img/a3022937873_9.jpg",
+    "featuredTrack": {
+      "name": "Paracosm",
+      "duration": 210.581,
+      "streamUrl": "https://t4.bcbits.com/stream/aaf44b05aec2dda50aeaf0cafaa08c2d/mp3-128/4010573080?p=0&ts=1703745349&t=14b40df198396202876c1e075b9db735612a0536&token=1703745349_e73802fd3cbfb6808c102d4378e0dc460f2dab75"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Certain Degree | G O N I E R",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Cara Gonier",
+      "url": "https://cara777.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/27391215_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://cara777.bandcamp.com/album/certain-degree-g-o-n-i-e-r",
+    "imageUrl": "https://f4.bcbits.com/img/a737237489_9.jpg",
+    "featuredTrack": {
+      "name": "Certain Degree 203º",
+      "duration": 144.141,
+      "streamUrl": "https://t4.bcbits.com/stream/201b8beb8816a96a95669da30ed89876/mp3-128/4129712168?p=0&ts=1703745349&t=85d19f4e0779359feb68dca73198149666de7087&token=1703745349_e252b162551516d5105db2ad87d1aad5a7da5772"
+    }
+  },
+  {
+    "type": "album",
+    "name": "ciúin",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "iarraidh",
+      "url": "https://iarraidh.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/27123474_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://iarraidh.bandcamp.com/album/ci-in",
+    "imageUrl": "https://f4.bcbits.com/img/a4293770175_9.jpg",
+    "featuredTrack": {
+      "name": "lainseáil",
+      "duration": 165.5,
+      "streamUrl": "https://t4.bcbits.com/stream/24484ec4ac365b52c6cff7d4ee3229f9/mp3-128/277029759?p=0&ts=1703745349&t=c680dfc4f9e49ac7b76d2e6ccfc5040bc882cd2f&token=1703745349_c50d33364d4ac9ed41e160846fd1639e076c0e75"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Full Moon September",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "W3.0",
+      "url": "https://spiritdatatree.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/null_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://spiritdatatree.bandcamp.com/album/full-moon-september",
+    "imageUrl": "https://f4.bcbits.com/img/a3986463298_9.jpg",
+    "featuredTrack": {
+      "name": "Silence Wait",
+      "duration": 67.6267,
+      "streamUrl": "https://t4.bcbits.com/stream/e9b6c39ef138503f18f41db0146d2da4/mp3-128/1663548413?p=0&ts=1703745349&t=774fdbf2106bce2e81557adbf3d1e9b19e9cc806&token=1703745349_113ac970de24716a7260f076e9b972bd433e2e9b"
+    }
+  },
+  {
+    "type": "album",
+    "name": "The Nightshift EP",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Blackout Ranger",
+      "url": "https://blackoutrangerma.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/9309485_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://blackoutrangerma.bandcamp.com/album/the-nightshift-ep",
+    "imageUrl": "https://f4.bcbits.com/img/a609486422_9.jpg",
+    "featuredTrack": {
+      "name": "Windu",
+      "duration": 109.349,
+      "streamUrl": "https://t4.bcbits.com/stream/9683914e7741b8cf5e6c4119d01ea9b5/mp3-128/2446662602?p=0&ts=1703745349&t=089a489480c9dc8f930383bf8dc7a0dea9262033&token=1703745349_69608f7c3069102ada18d2837f4bfaad64d3b8d2"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Wish Me Luck",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Oceanicism",
+      "url": "https://oceanicism.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/25394420_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://oceanicism.bandcamp.com/album/wish-me-luck",
+    "imageUrl": "https://f4.bcbits.com/img/a743119563_9.jpg",
+    "featuredTrack": {
+      "name": "Mud",
+      "duration": 142.5,
+      "streamUrl": "https://t4.bcbits.com/stream/18b5e91f6342275e5cafc6f090653b94/mp3-128/1801797581?p=0&ts=1703745349&t=d37bfe1dc5407a7ec2ae7ee66422762aac6c5f6e&token=1703745349_ad56c23c8c67e3ec964cb4da40896031b6a9ce67"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Demos",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "__generic",
+      "url": "https://generic5.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/33204818_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://generic5.bandcamp.com/album/demos",
+    "imageUrl": "https://f4.bcbits.com/img/a3600163227_9.jpg",
+    "featuredTrack": {
+      "name": "demotrack1",
+      "duration": 69.7019,
+      "streamUrl": "https://t4.bcbits.com/stream/12d5cbbdae311a2de9da329637a02bd6/mp3-128/701870633?p=0&ts=1703745349&t=7fc15c0879e91da0ee988f36a279e8263c14ee50&token=1703745349_0c6ad85cd339720bc4ebec1841ea459cbd5923e2"
+    }
+  },
+  {
+    "type": "album",
+    "name": "Marsh",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "gull",
+      "url": "https://gullgull.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/4020041_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://gullgull.bandcamp.com/album/marsh",
+    "imageUrl": "https://f4.bcbits.com/img/a2788383614_9.jpg",
+    "featuredTrack": {
+      "name": "Marsh I ~ Strings of Lamb Gizzards Stretched Over Rivers",
+      "duration": 1584.15,
+      "streamUrl": "https://t4.bcbits.com/stream/d060907ff4e2164c02cbf9e71bdb26d8/mp3-128/1914195882?p=0&ts=1703745349&t=6e71974e468ced9ebd166c54cdbd05fbfa1ec6dd&token=1703745349_c954ca9094d76fc59223e2215c7d99e66e385435"
+    }
+  },
+  {
+    "type": "album",
+    "name": "[ANDROMEDA]",
+    "genre": "ambient",
+    "artist": {
+      "type": "artist",
+      "name": "Pastel Andromeda",
+      "url": "https://pastelandromeda.bandcamp.com",
+      "imageUrl": "https://f4.bcbits.com/img/13605224_21.jpg"
+    },
+    "location": "Boston, Massachusetts",
+    "url": "https://pastelandromeda.bandcamp.com/album/andromeda",
+    "imageUrl": "https://f4.bcbits.com/img/a1331294134_9.jpg",
+    "featuredTrack": {
+      "name": "[ANDROMEDA_0001]",
+      "duration": 169.822,
+      "streamUrl": "https://t4.bcbits.com/stream/92641239ba90a9a093987fb92e4f4c05/mp3-128/2955512966?p=0&ts=1703745349&t=31de1751c43274290c5ef70dc21355732e4d104c&token=1703745349_3681ad35b2d59231af5ca847f34de1290fa8a0f3"
+    }
+  }
+]
